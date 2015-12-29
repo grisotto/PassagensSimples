@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447634237 source:/home/rafael/Documents/passagens/Passagens/main.c
+	<stdio.h>
+	<stdlib.h>
+
