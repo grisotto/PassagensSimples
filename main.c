@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
@@ -689,3 +690,28 @@ int main(int argc, char const *argv[]) {
 
     return 0;
 }
+=======
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+//Inicializa varaveis com 0
+int i=0,cont=0;
+    for(i=0;i<16;i++)
+    {
+        printf("%d\n",i);
+
+        cont++;
+        if(cont == 4)
+        {
+          printf("\r\r\r\r\t");
+          cont=0;
+        }
+
+    }
+
+
+    return 0;
+}
+>>>>>>> 8457386c1d9b60d2d5dbf09d11807b27d30dc1ac
