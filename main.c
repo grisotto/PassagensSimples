@@ -3,7 +3,7 @@
 
 int main()
 {
-//teste
+//Inicializa varaveis com 0
 int i=0,cont=0;
     for(i=0;i<16;i++)
     {
